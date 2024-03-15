@@ -1,2 +1,1 @@
-# Random-User_Genrator-ReactReduxQuery-Project
-Random-User_Genrator-ReactReduxQuery-Project
+# Random User Generation App - Built with React Redux Toolkit Query
